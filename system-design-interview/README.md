@@ -5,3 +5,9 @@
 #### [1장 - 사용자 수에 따른 규모 확장성](https://github.com/ahn-sujin/tech-books/tree/main/system-design-interview/ch1)
 - 캐시
 - 콘텐츠 전송 네트워크 (CDN)
+- 무상태(stateless) 웹 계층
+- 데이터 센터
+- 메시지 큐
+- 로그, 메트릭 그리고 자동화
+- 데이터베이스의 규모 확장
+- 백만 사용자, 그리고 그 이상
